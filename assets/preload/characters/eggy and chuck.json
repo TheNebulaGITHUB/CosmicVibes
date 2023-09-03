@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Chuck and Eggy Speaker",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CV_Eggy_Chuck",
+	"position": [
+		-130,
+		0
+	],
+	"healthicon": "gay",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-300,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

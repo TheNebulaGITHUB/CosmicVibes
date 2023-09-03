@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "void but he hunger idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "void but he hunger LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "void but he hunger DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "void but he hunger UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "void but he hunger RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/void but he hunger",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "yes",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		0,
+		201
+	],
+	"camera_position": [
+		-90,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

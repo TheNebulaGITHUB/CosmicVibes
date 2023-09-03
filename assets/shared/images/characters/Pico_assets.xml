@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pico_assets.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MISS Pico down 0000" x="5024" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0001" x="0" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0002" x="0" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0003" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0004" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0005" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0006" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0007" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0008" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0009" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0010" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0011" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0012" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico down 0013" x="628" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0000" x="1256" y="633" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0001" x="1256" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0002" x="1256" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0003" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0004" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0005" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0006" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0007" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0008" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0009" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0010" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0011" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0012" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico left0013" x="1884" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0000" x="2512" y="633" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0001" x="2512" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0002" x="2512" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0003" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0004" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0005" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0006" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0007" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0008" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0009" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0010" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0011" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0012" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico right0013" x="3140" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0000" x="3768" y="633" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0001" x="3768" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0002" x="3768" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0003" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0004" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0005" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0006" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0007" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0008" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0009" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0010" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0011" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0012" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="MISS Pico up 0013" x="4396" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0000" x="5024" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0001" x="5024" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0002" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0003" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0004" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0005" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0006" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0007" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0008" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0009" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0010" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0011" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0012" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico down0013" x="5652" y="0" width="628" height="633"/>
+	<SubTexture name="Pico idle0000" x="6280" y="0" width="628" height="633"/>
+	<SubTexture name="Pico idle0001" x="6280" y="0" width="628" height="633"/>
+	<SubTexture name="Pico idle0002" x="6908" y="0" width="628" height="633"/>
+	<SubTexture name="Pico idle0003" x="6908" y="0" width="628" height="633"/>
+	<SubTexture name="Pico idle0004" x="7536" y="0" width="628" height="633"/>
+	<SubTexture name="Pico idle0005" x="7536" y="0" width="628" height="633"/>
+	<SubTexture name="Pico idle0006" x="0" y="633" width="628" height="633"/>
+	<SubTexture name="Pico idle0007" x="0" y="633" width="628" height="633"/>
+	<SubTexture name="Pico idle0008" x="628" y="633" width="628" height="633"/>
+	<SubTexture name="Pico idle0009" x="628" y="633" width="628" height="633"/>
+	<SubTexture name="Pico idle0010" x="628" y="633" width="628" height="633"/>
+	<SubTexture name="Pico idle0011" x="628" y="633" width="628" height="633"/>
+	<SubTexture name="Pico idle0012" x="628" y="633" width="628" height="633"/>
+	<SubTexture name="Pico idle0013" x="628" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0000" x="1256" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0001" x="1256" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0002" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0003" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0004" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0005" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0006" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0007" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0008" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0009" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0010" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0011" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0012" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico left0013" x="1884" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0000" x="2512" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0001" x="2512" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0002" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0003" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0004" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0005" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0006" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0007" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0008" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0009" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0010" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0011" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0012" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico right0013" x="3140" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0000" x="3768" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0001" x="3768" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0002" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0003" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0004" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0005" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0006" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0007" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0008" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0009" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0010" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0011" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0012" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="Pico up0013" x="4396" y="633" width="628" height="633"/>
+	<SubTexture name="lozer pico0000" x="5024" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0001" x="5024" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0002" x="5854" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0003" x="5854" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0004" x="5854" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0005" x="5854" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0006" x="5854" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0007" x="5854" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0008" x="5854" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0009" x="5854" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0010" x="5854" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0011" x="6684" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0012" x="6684" y="633" width="830" height="665"/>
+	<SubTexture name="lozer pico0013" x="0" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0014" x="830" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0015" x="830" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0016" x="1660" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0017" x="2490" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0018" x="3320" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0019" x="4150" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0020" x="4980" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0021" x="3320" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0022" x="4150" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0023" x="5810" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0024" x="6640" y="1298" width="830" height="665"/>
+	<SubTexture name="lozer pico0025" x="0" y="1963" width="830" height="665"/>
+	<SubTexture name="lozer pico0026" x="830" y="1963" width="830" height="665"/>
+	<SubTexture name="lozer pico0027" x="1660" y="1963" width="830" height="665"/>
+	<SubTexture name="lozer pico0028" x="2490" y="1963" width="830" height="665"/>
+	<SubTexture name="lozer pico0029" x="3320" y="1963" width="830" height="665"/>
+	<SubTexture name="lozer pico0030" x="4150" y="1963" width="830" height="665"/>
+	<SubTexture name="lozer pico0031" x="4980" y="1963" width="830" height="665"/>
+	<SubTexture name="lozer pico0032" x="5810" y="1963" width="830" height="665"/>
+	<SubTexture name="lozer pico0033" x="6640" y="1963" width="830" height="665"/>
+	<SubTexture name="lozer pico0034" x="0" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0035" x="0" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0036" x="830" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0037" x="1660" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0038" x="2490" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0039" x="3320" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0040" x="3320" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0041" x="4150" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0042" x="4150" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0043" x="4980" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0044" x="4980" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0045" x="5810" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0046" x="6640" y="2628" width="830" height="665"/>
+	<SubTexture name="lozer pico0047" x="0" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico0048" x="830" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico0049" x="1660" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico0050" x="2490" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico0051" x="3320" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico0052" x="4150" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico0053" x="4980" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico0054" x="5810" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico0055" x="5810" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico0056" x="5810" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico0057" x="5810" y="3293" width="830" height="665"/>
+	<SubTexture name="lozer pico confirm0000" x="6640" y="3293" width="670" height="693" frameX="-30" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0001" x="6640" y="3293" width="670" height="693" frameX="-30" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0002" x="7310" y="3293" width="729" height="693"/>
+	<SubTexture name="lozer pico confirm0003" x="7310" y="3293" width="729" height="693"/>
+	<SubTexture name="lozer pico confirm0004" x="0" y="3986" width="711" height="693" frameX="-9" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0005" x="0" y="3986" width="711" height="693" frameX="-9" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0006" x="711" y="3986" width="699" height="693" frameX="-15" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0007" x="711" y="3986" width="699" height="693" frameX="-15" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0008" x="1410" y="3986" width="699" height="693" frameX="-15" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0009" x="2109" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0010" x="2768" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0011" x="2768" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0012" x="3427" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0013" x="4086" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0014" x="4745" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0015" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0016" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0017" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0018" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0019" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0020" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0021" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0022" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0023" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0024" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0025" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0026" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0027" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0028" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0029" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0030" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0031" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0032" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico confirm0033" x="5404" y="3986" width="659" height="693" frameX="-41" frameY="0" frameWidth="729" frameHeight="693"/>
+	<SubTexture name="lozer pico loop0000" x="6063" y="3986" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0001" x="6691" y="3986" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0002" x="7319" y="3986" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0003" x="0" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0004" x="628" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0005" x="1256" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0006" x="1884" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0007" x="2512" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0008" x="3140" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0009" x="3768" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0010" x="4396" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0011" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0012" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0013" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0014" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0015" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0016" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0017" x="6063" y="3986" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0018" x="6691" y="3986" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0019" x="7319" y="3986" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0020" x="0" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0021" x="628" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0022" x="1256" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0023" x="1884" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0024" x="5652" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0025" x="6280" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0026" x="6908" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0027" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0028" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0029" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0030" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0031" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0032" x="5024" y="4679" width="628" height="656"/>
+	<SubTexture name="lozer pico loop0033" x="5024" y="4679" width="628" height="656"/>
+</TextureAtlas>

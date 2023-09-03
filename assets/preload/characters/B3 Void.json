@@ -1,0 +1,215 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "B3 Void idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				17
+			],
+			"anim": "Rizz",
+			"fps": 24,
+			"name": "B3 Void W rizz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-7
+			],
+			"anim": "Ugly",
+			"fps": 24,
+			"name": "B3 Void ur ugly",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				25
+			],
+			"anim": "you suck",
+			"fps": 24,
+			"name": "B3 Void u suck",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "B3 Void LEFT ALT"
+		},
+		{
+			"offsets": [
+				5,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "B3 Void RIGHT ALT"
+		},
+		{
+			"offsets": [
+				-61,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "B3 Void DOWN ALT"
+		},
+		{
+			"offsets": [
+				-9,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "B3 Void UP ALT"
+		},
+		{
+			"offsets": [
+				-68,
+				14
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "B3 Void DOWN"
+		},
+		{
+			"offsets": [
+				109,
+				-9
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "B3 Void LEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				39
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "B3 Void UP"
+		},
+		{
+			"offsets": [
+				2,
+				-12
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "B3 Void RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B3_Void_assets",
+	"position": [
+		-10,
+		110
+	],
+	"healthicon": "andrew",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		35,
+		255
+	],
+	"camera_position": [
+		60,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

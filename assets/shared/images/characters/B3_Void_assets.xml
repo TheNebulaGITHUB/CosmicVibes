@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="B3_Void_assets.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B3 Void DOWN0000" x="0" y="0" width="509" height="694" frameX="0" frameY="-29" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0001" x="0" y="0" width="509" height="694" frameX="0" frameY="-29" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0002" x="509" y="0" width="515" height="715" frameX="-6" frameY="-8" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0003" x="509" y="0" width="515" height="715" frameX="-6" frameY="-8" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0004" x="1024" y="0" width="521" height="723" frameX="-6" frameY="0" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0005" x="1024" y="0" width="521" height="723" frameX="-6" frameY="0" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0006" x="1545" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0007" x="1545" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0008" x="1545" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0009" x="1545" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0010" x="1545" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0011" x="1545" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0012" x="1545" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN0013" x="1545" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0000" x="2066" y="0" width="510" height="694" frameX="0" frameY="-29" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0001" x="2576" y="0" width="510" height="694" frameX="0" frameY="-29" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0002" x="3086" y="0" width="515" height="715" frameX="-6" frameY="-8" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0003" x="3601" y="0" width="515" height="715" frameX="-6" frameY="-8" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0004" x="4116" y="0" width="521" height="723" frameX="-6" frameY="0" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0005" x="4116" y="0" width="521" height="723" frameX="-6" frameY="0" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0006" x="4637" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0007" x="4637" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0008" x="4637" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0009" x="4637" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0010" x="4637" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0011" x="4637" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0012" x="4637" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void DOWN ALT0013" x="4637" y="0" width="521" height="623" frameX="-6" frameY="-100" frameWidth="527" frameHeight="723"/>
+	<SubTexture name="B3 Void LEFT0000" x="5158" y="0" width="608" height="690" frameX="0" frameY="-7" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0001" x="5158" y="0" width="608" height="690" frameX="0" frameY="-7" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0002" x="5766" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0003" x="5766" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0004" x="6361" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0005" x="6361" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0006" x="6361" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0007" x="6361" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0008" x="6361" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0009" x="6361" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0010" x="6361" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0011" x="6361" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0012" x="6361" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT0013" x="6361" y="0" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0000" x="6956" y="0" width="608" height="690" frameX="0" frameY="-7" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0001" x="7564" y="0" width="608" height="690" frameX="0" frameY="-7" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0002" x="0" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0003" x="595" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0004" x="1190" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0005" x="1190" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0006" x="1190" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0007" x="1190" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0008" x="1190" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0009" x="1190" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0010" x="1190" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0011" x="1190" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0012" x="1190" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void LEFT ALT0013" x="1190" y="723" width="595" height="697" frameX="-17" frameY="0" frameWidth="612" frameHeight="697"/>
+	<SubTexture name="B3 Void RIGHT0000" x="1785" y="723" width="477" height="693" frameX="-34" frameY="-1" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0001" x="1785" y="723" width="477" height="693" frameX="-34" frameY="-1" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0002" x="2262" y="723" width="492" height="694" frameX="-15" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0003" x="2262" y="723" width="492" height="694" frameX="-15" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0004" x="2754" y="723" width="509" height="694" frameX="0" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0005" x="2754" y="723" width="509" height="694" frameX="0" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0006" x="3263" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0007" x="3263" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0008" x="3263" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0009" x="3263" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0010" x="3263" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0011" x="3263" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0012" x="3263" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT0013" x="3263" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0000" x="3708" y="723" width="477" height="693" frameX="-34" frameY="-1" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0001" x="4185" y="723" width="477" height="693" frameX="-34" frameY="-1" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0002" x="4662" y="723" width="492" height="694" frameX="-15" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0003" x="5154" y="723" width="492" height="694" frameX="-15" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0004" x="5646" y="723" width="509" height="694" frameX="0" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0005" x="5646" y="723" width="509" height="694" frameX="0" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0006" x="6155" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0007" x="6155" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0008" x="6155" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0009" x="6155" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0010" x="6155" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0011" x="6155" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0012" x="6155" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void RIGHT ALT0013" x="6155" y="723" width="445" height="694" frameX="-64" frameY="0" frameWidth="511" frameHeight="694"/>
+	<SubTexture name="B3 Void UP0000" x="6600" y="723" width="490" height="730" frameX="-3" frameY="-25" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0001" x="6600" y="723" width="490" height="730" frameX="-3" frameY="-25" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0002" x="7090" y="723" width="503" height="755"/>
+	<SubTexture name="B3 Void UP0003" x="7090" y="723" width="503" height="755"/>
+	<SubTexture name="B3 Void UP0004" x="7593" y="723" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0005" x="7593" y="723" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0006" x="0" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0007" x="0" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0008" x="0" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0009" x="0" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0010" x="0" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0011" x="0" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0012" x="0" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP0013" x="0" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0000" x="499" y="1478" width="490" height="730" frameX="-3" frameY="-25" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0001" x="989" y="1478" width="490" height="730" frameX="-3" frameY="-25" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0002" x="1479" y="1478" width="503" height="755"/>
+	<SubTexture name="B3 Void UP ALT0003" x="1982" y="1478" width="503" height="755"/>
+	<SubTexture name="B3 Void UP ALT0004" x="2485" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0005" x="2485" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0006" x="2984" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0007" x="2984" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0008" x="2984" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0009" x="2984" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0010" x="2984" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0011" x="2984" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0012" x="2984" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void UP ALT0013" x="2984" y="1478" width="499" height="753" frameX="0" frameY="-2" frameWidth="503" frameHeight="755"/>
+	<SubTexture name="B3 Void W rizz0000" x="3483" y="1478" width="582" height="688" frameX="-53" frameY="-41" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0001" x="3483" y="1478" width="582" height="688" frameX="-53" frameY="-41" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0002" x="4065" y="1478" width="666" height="705" frameX="-5" frameY="-24" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0003" x="4065" y="1478" width="666" height="705" frameX="-5" frameY="-24" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0004" x="4731" y="1478" width="698" height="693" frameX="-14" frameY="-36" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0005" x="4731" y="1478" width="698" height="693" frameX="-14" frameY="-36" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0006" x="5429" y="1478" width="707" height="691" frameX="0" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0007" x="5429" y="1478" width="707" height="691" frameX="0" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0008" x="6136" y="1478" width="678" height="710" frameX="-30" frameY="-19" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0009" x="6136" y="1478" width="678" height="710" frameX="-30" frameY="-19" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0010" x="6814" y="1478" width="677" height="710" frameX="-30" frameY="-19" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0011" x="7491" y="1478" width="683" height="721" frameX="-24" frameY="-8" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0012" x="0" y="2233" width="684" height="721" frameX="-24" frameY="-8" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0013" x="0" y="2233" width="684" height="721" frameX="-24" frameY="-8" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0014" x="684" y="2233" width="686" height="729" frameX="-21" frameY="0" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0015" x="684" y="2233" width="686" height="729" frameX="-21" frameY="0" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0016" x="1370" y="2233" width="689" height="691" frameX="-19" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0017" x="1370" y="2233" width="689" height="691" frameX="-19" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0018" x="2059" y="2233" width="688" height="691" frameX="-19" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0019" x="2059" y="2233" width="688" height="691" frameX="-19" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0020" x="2747" y="2233" width="708" height="691" frameX="0" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0021" x="2747" y="2233" width="708" height="691" frameX="0" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0022" x="6814" y="1478" width="677" height="710" frameX="-30" frameY="-19" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0023" x="6814" y="1478" width="677" height="710" frameX="-30" frameY="-19" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0024" x="6136" y="1478" width="678" height="710" frameX="-30" frameY="-19" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0025" x="0" y="2233" width="684" height="721" frameX="-24" frameY="-8" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0026" x="7491" y="1478" width="683" height="721" frameX="-24" frameY="-8" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0027" x="7491" y="1478" width="683" height="721" frameX="-24" frameY="-8" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0028" x="3455" y="2233" width="687" height="729" frameX="-21" frameY="0" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0029" x="3455" y="2233" width="687" height="729" frameX="-21" frameY="0" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0030" x="2059" y="2233" width="688" height="691" frameX="-19" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0031" x="2059" y="2233" width="688" height="691" frameX="-19" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0032" x="1370" y="2233" width="689" height="691" frameX="-19" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void W rizz0033" x="1370" y="2233" width="689" height="691" frameX="-19" frameY="-38" frameWidth="712" frameHeight="729"/>
+	<SubTexture name="B3 Void idle0000" x="4142" y="2233" width="490" height="694" frameX="0" frameY="-13" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0001" x="4142" y="2233" width="490" height="694" frameX="0" frameY="-13" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0002" x="4632" y="2233" width="476" height="686" frameX="-32" frameY="-21" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0003" x="4632" y="2233" width="476" height="686" frameX="-32" frameY="-21" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0004" x="5108" y="2233" width="476" height="688" frameX="-33" frameY="-19" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0005" x="5584" y="2233" width="505" height="695" frameX="-27" frameY="-12" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0006" x="6089" y="2233" width="504" height="704" frameX="-26" frameY="-3" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0007" x="6089" y="2233" width="504" height="704" frameX="-26" frameY="-3" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0008" x="6593" y="2233" width="522" height="707" frameX="-22" frameY="0" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0009" x="6593" y="2233" width="522" height="707" frameX="-22" frameY="0" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0010" x="7115" y="2233" width="470" height="705" frameX="-20" frameY="-2" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0011" x="7115" y="2233" width="470" height="705" frameX="-20" frameY="-2" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0012" x="7115" y="2233" width="470" height="705" frameX="-20" frameY="-2" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle0013" x="7115" y="2233" width="470" height="705" frameX="-20" frameY="-2" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0000" x="7585" y="2233" width="495" height="698" frameX="0" frameY="-9" frameWidth="547" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0001" x="7585" y="2233" width="495" height="698" frameX="0" frameY="-9" frameWidth="547" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0002" x="4632" y="2233" width="476" height="686" frameX="-35" frameY="-21" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0003" x="4632" y="2233" width="476" height="686" frameX="-35" frameY="-21" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0004" x="5108" y="2233" width="476" height="688" frameX="-36" frameY="-19" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0005" x="5584" y="2233" width="505" height="695" frameX="-30" frameY="-12" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0006" x="6089" y="2233" width="504" height="704" frameX="-29" frameY="-3" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0007" x="6089" y="2233" width="504" height="704" frameX="-29" frameY="-3" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0008" x="6593" y="2233" width="522" height="707" frameX="-25" frameY="0" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0009" x="6593" y="2233" width="522" height="707" frameX="-25" frameY="0" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0010" x="7115" y="2233" width="470" height="705" frameX="-23" frameY="-2" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0011" x="7115" y="2233" width="470" height="705" frameX="-23" frameY="-2" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0012" x="7115" y="2233" width="470" height="705" frameX="-23" frameY="-2" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void idle copy0013" x="7115" y="2233" width="470" height="705" frameX="-23" frameY="-2" frameWidth="544" frameHeight="707"/>
+	<SubTexture name="B3 Void u suck0000" x="0" y="2962" width="465" height="674" frameX="-14" frameY="-62" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0001" x="465" y="2962" width="465" height="674" frameX="-14" frameY="-62" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0002" x="930" y="2962" width="475" height="709" frameX="0" frameY="-27" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0003" x="1405" y="2962" width="475" height="709" frameX="0" frameY="-27" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0004" x="1880" y="2962" width="470" height="705" frameX="-8" frameY="-31" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0005" x="2350" y="2962" width="470" height="705" frameX="-8" frameY="-31" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0006" x="2820" y="2962" width="470" height="705" frameX="-8" frameY="-31" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0007" x="3290" y="2962" width="470" height="705" frameX="-8" frameY="-31" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0008" x="3290" y="2962" width="470" height="705" frameX="-8" frameY="-31" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0009" x="3760" y="2962" width="470" height="705" frameX="-8" frameY="-31" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0010" x="4230" y="2962" width="470" height="705" frameX="-8" frameY="-31" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0011" x="4700" y="2962" width="470" height="705" frameX="-8" frameY="-31" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0012" x="5170" y="2962" width="470" height="705" frameX="-8" frameY="-31" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0013" x="5640" y="2962" width="470" height="705" frameX="-8" frameY="-31" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0014" x="6110" y="2962" width="457" height="707" frameX="-31" frameY="-29" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0015" x="6567" y="2962" width="457" height="707" frameX="-31" frameY="-29" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0016" x="6567" y="2962" width="457" height="707" frameX="-31" frameY="-29" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0017" x="7024" y="2962" width="501" height="739" frameX="-44" frameY="0" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0018" x="7024" y="2962" width="501" height="739" frameX="-44" frameY="0" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0019" x="7525" y="2962" width="516" height="733" frameX="-15" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0020" x="0" y="3701" width="516" height="733" frameX="-15" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0021" x="516" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0022" x="516" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0023" x="971" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0024" x="971" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0025" x="1426" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0026" x="1881" y="3701" width="461" height="733" frameX="-77" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0027" x="2342" y="3701" width="461" height="733" frameX="-77" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0028" x="2803" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0029" x="971" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0030" x="971" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0031" x="3258" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0032" x="3258" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0033" x="516" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void u suck0034" x="516" y="3701" width="455" height="733" frameX="-76" frameY="-6" frameWidth="545" frameHeight="739"/>
+	<SubTexture name="B3 Void ur ugly0000" x="3713" y="3701" width="448" height="693" frameX="-8" frameY="0" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0001" x="3713" y="3701" width="448" height="693" frameX="-8" frameY="0" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0002" x="4161" y="3701" width="568" height="618" frameX="0" frameY="-80" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0003" x="4161" y="3701" width="568" height="618" frameX="0" frameY="-80" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0004" x="4729" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0005" x="4729" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0006" x="5283" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0007" x="5283" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0008" x="5837" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0009" x="5837" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0010" x="6391" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0011" x="6391" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0012" x="6945" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0013" x="6945" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0014" x="7499" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0015" x="7499" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0016" x="0" y="4434" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0017" x="0" y="4434" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0018" x="554" y="4434" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0019" x="554" y="4434" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0020" x="7499" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+	<SubTexture name="B3 Void ur ugly0021" x="7499" y="3701" width="554" height="623" frameX="-4" frameY="-75" frameWidth="630" frameHeight="698"/>
+</TextureAtlas>

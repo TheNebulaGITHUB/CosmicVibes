@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "void idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				75
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "void up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				61
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "void left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				63,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "void down"
+		},
+		{
+			"offsets": [
+				117,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "void right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/void_remake",
+	"position": [
+		80,
+		160
+	],
+	"healthicon": "V",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		0,
+		153
+	],
+	"camera_position": [
+		-60,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

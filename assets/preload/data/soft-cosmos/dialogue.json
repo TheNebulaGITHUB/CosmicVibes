@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "bf speak",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Wow Void you sing Amazingly"
+		},
+		{
+			"sound": "void speak",
+			"speed": 0.05,
+			"portrait": "void",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Oh thank you Bf you did great yourself"
+		},
+		{
+			"sound": "bf speak",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thank you"
+		},
+		{
+			"sound": "bf speak",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "alright so you ready to sing the next song?"
+		},
+		{
+			"sound": "void speak",
+			"speed": 0.05,
+			"portrait": "void",
+			"boxState": "normal",
+			"expression": "Miss",
+			"text": "uhhh sure but after this i gotta tell you sum"
+		},
+		{
+			"sound": "bf speak",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "okay"
+		},
+		{
+			"sound": "void speak",
+			"speed": 0.05,
+			"portrait": "void",
+			"boxState": "normal",
+			"expression": "Miss",
+			"text": "(i hope i can do well enough to tell him that singing is not my thing)"
+		},
+		{
+			"sound": "void speak",
+			"speed": 0.05,
+			"portrait": "void",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright lets start !!"
+		}
+	]
+}

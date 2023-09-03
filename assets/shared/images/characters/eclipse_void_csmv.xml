@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eclipse_void_csmv.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VOID DOWN0000" x="0" y="0" width="444" height="693" frameX="0" frameY="-6" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0001" x="0" y="0" width="444" height="693" frameX="0" frameY="-6" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0002" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0003" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0004" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0005" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0006" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0007" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0008" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0009" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0010" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0011" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0012" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0013" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID DOWN0014" x="452" y="0" width="435" height="699" frameX="-10" frameY="0" frameWidth="445" frameHeight="699"/>
+	<SubTexture name="VOID IDLE0000" x="895" y="0" width="415" height="705" frameX="-23" frameY="-19" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0001" x="895" y="0" width="415" height="705" frameX="-23" frameY="-19" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0002" x="1318" y="0" width="412" height="712" frameX="-20" frameY="-12" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0003" x="1318" y="0" width="412" height="712" frameX="-20" frameY="-12" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0004" x="1738" y="0" width="413" height="717" frameX="-14" frameY="-7" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0005" x="1738" y="0" width="413" height="717" frameX="-14" frameY="-7" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0006" x="2159" y="0" width="423" height="723" frameX="-4" frameY="-1" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0007" x="2159" y="0" width="423" height="723" frameX="-4" frameY="-1" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0008" x="2590" y="0" width="427" height="724" frameX="0" frameY="0" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0009" x="2590" y="0" width="427" height="724" frameX="0" frameY="0" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0010" x="2590" y="0" width="427" height="724" frameX="0" frameY="0" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0011" x="2590" y="0" width="427" height="724" frameX="0" frameY="0" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0012" x="2590" y="0" width="427" height="724" frameX="0" frameY="0" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID IDLE0013" x="2590" y="0" width="427" height="724" frameX="0" frameY="0" frameWidth="438" frameHeight="724"/>
+	<SubTexture name="VOID LEFT0000" x="3025" y="0" width="461" height="717" frameX="0" frameY="-4" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0001" x="3025" y="0" width="461" height="717" frameX="0" frameY="-4" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0002" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0003" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0004" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0005" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0006" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0007" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0008" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0009" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0010" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0011" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0012" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0013" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID LEFT0014" x="3494" y="0" width="468" height="721" frameX="-3" frameY="0" frameWidth="471" frameHeight="721"/>
+	<SubTexture name="VOID RIGHT0000" x="0" y="732" width="389" height="730" frameX="-15" frameY="0" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0001" x="0" y="732" width="389" height="730" frameX="-15" frameY="0" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0002" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0003" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0004" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0005" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0006" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0007" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0008" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0009" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0010" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0011" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0012" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0013" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID RIGHT0014" x="397" y="732" width="402" height="728" frameX="0" frameY="-2" frameWidth="404" frameHeight="730"/>
+	<SubTexture name="VOID UP0000" x="807" y="732" width="454" height="742"/>
+	<SubTexture name="VOID UP0001" x="807" y="732" width="454" height="742"/>
+	<SubTexture name="VOID UP0002" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0003" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0004" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0005" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0006" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0007" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0008" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0009" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0010" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0011" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0012" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0013" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+	<SubTexture name="VOID UP0014" x="1269" y="732" width="447" height="738" frameX="-7" frameY="-4" frameWidth="454" frameHeight="742"/>
+</TextureAtlas>

@@ -1,0 +1,59 @@
+{
+	"storyName": "Freeplay stuff",
+	"difficulties": "chill,vibe",
+	"hideFreeplay": false,
+	"weekBackground": "void room",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"solar-eclipse",
+			"altvoid",
+			[
+				95,
+				0,
+				155
+			]
+		],
+		[
+			"vibe-or-hide",
+			"ew",
+			[
+				35,
+				0,
+				55
+			]
+		],
+		[
+			"another-blubber-remix",
+			"pngv",
+			[
+				95,
+				0,
+				155
+			]
+		],
+		[
+			"gritty",
+			"pico",
+			[
+				0,
+				113,
+				13
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "freeplay stuff !!",
+	"hiddenUntilUnlocked": false
+}

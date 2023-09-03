@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "VOID DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "VOID IDLE"
+		},
+		{
+			"offsets": [
+				27,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "VOID LEFT"
+		},
+		{
+			"offsets": [
+				-42,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "VOID RIGHT"
+		},
+		{
+			"offsets": [
+				7,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "VOID UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eclipse_void_csmv",
+	"position": [
+		-30,
+		100
+	],
+	"healthicon": "altvoid",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		0,
+		215
+	],
+	"camera_position": [
+		70,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

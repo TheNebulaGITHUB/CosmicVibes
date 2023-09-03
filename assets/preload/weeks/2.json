@@ -1,0 +1,59 @@
+{
+	"storyName": "Chilling with void",
+	"difficulties": "chill,vibe",
+	"hideFreeplay": false,
+	"weekBackground": "voidweek",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"star-shattered",
+			"V",
+			[
+				166,
+				0,
+				193
+			]
+		],
+		[
+			"soft-cosmos",
+			"V",
+			[
+				166,
+				0,
+				193
+			]
+		],
+		[
+			"abyssal",
+			"V",
+			[
+				166,
+				0,
+				193
+			]
+		],
+		[
+			"final-vibe",
+			"V",
+			[
+				166,
+				0,
+				193
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "chilling with void"
+}
