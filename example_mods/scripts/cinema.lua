@@ -1,28 +1,49 @@
---This Script was made by Comical Chaos
-function onCreate()
-	makeLuaSprite('bartop','',0,0);
-	makeGraphic('bartop',1280,100,'000000');
-	addLuaSprite('bartop',false);
-	makeLuaSprite('barbot','',0,620);
-	makeGraphic('barbot',1280,100,'000000');
-	addLuaSprite('barbot',false);
-	setScrollFactor('bartop',0,0);
-	setScrollFactor('barbot',0,0);
-	setObjectCamera('bartop','hud');
-	setObjectCamera('barbot','hud');
+function makeSolid(id, width, height, color)
+    makeGraphic(id, 1, 1, color)
+    scaleObject(id, width, height)
 end
+
 function onCreatePost()
-	setProperty('scoreTxt.y', 12);
-	setProperty('timeTxt.visible', true);
-	setProperty('timeBar.visible', true);
-	setProperty('iconP1.alpha', 1);
-	setProperty('iconP2.alpha', 1);
-	if getPropertyFromClass('ClientPrefs', 'downScroll') == true then
-		setProperty('scoreTxt.y', 32);
-		setProperty('healthBar.y', 8);
-		else if getPropertyFromClass('ClientPrefs', 'downScroll') == false then
-			setProperty('scoreTxt.y', 689);
-			setProperty('healthBar.y', 640);
-		end
+
+    makeLuaSprite('UpperBarHUD', 'empty', -110, -350)
+	makeSolid('UpperBarHUD', 1500, 350, '000000')
+	setObjectCamera('UpperBarHUD', 'HUD')
+	addLuaSprite('UpperBarHUD', false)
+
+    makeLuaSprite('LowerBarHUD', 'empty', -110, 720)
+	makeSolid('LowerBarHUD', 1500, 350, '000000')
+
+    runHaxeCode([[
+        game.modchartSprites.get("UpperBarHUD").makeGraphic(1, 1, 0xFF000000);   
+        game.modchartSprites.get("LowerBarHUD").makeGraphic(1, 1, 0xFF000000);        
+    ]])
+	setObjectCamera('LowerBarHUD', 'HUD')
+	addLuaSprite('LowerBarHUD', false)
+
+    UpperBar = getProperty('UpperBarHUD.y')
+	LowerBar = getProperty('LowerBarHUD.y')
+
+    for Notes = 0,7 do 
+        StrumY = getPropertyFromGroup('strumLineNotes', Notes, 'y')
+    end
+	
+	Speed = 1
+	Distance = 64
+
+
+
+	if Speed and Distance > 0 then
+
+		doTweenY('With HUD1', 'UpperBarHUD', UpperBar + Distance, Speed, 'QuadOut')
+		doTweenY('With HUD2', 'LowerBarHUD', LowerBar - Distance, Speed, 'QuadOut')
+
+	end
+
+	if downscroll and Speed and Distance > 0 then
+	
+		doTweenY('With HUD1', 'UpperBarHUD', UpperBar + Distance, Speed, 'QuadOut')
+		doTweenY('With HUD2', 'LowerBarHUD', LowerBar - Distance, Speed, 'QuadOut')
+
 	end
 end
+

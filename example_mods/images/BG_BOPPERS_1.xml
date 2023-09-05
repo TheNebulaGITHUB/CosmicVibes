@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG_BOPPERS_1.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG BOPPERS 10000" x="0" y="0" width="2137" height="791" frameX="0" frameY="-12" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10001" x="0" y="0" width="2137" height="791" frameX="0" frameY="-12" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10002" x="0" y="791" width="2130" height="795" frameX="-5" frameY="-8" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10003" x="0" y="791" width="2130" height="795" frameX="-5" frameY="-8" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10004" x="0" y="1586" width="2125" height="803" frameX="-6" frameY="0" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10005" x="0" y="1586" width="2125" height="803" frameX="-6" frameY="0" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10006" x="0" y="1586" width="2125" height="803" frameX="-6" frameY="0" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10007" x="0" y="1586" width="2125" height="803" frameX="-6" frameY="0" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10008" x="0" y="1586" width="2125" height="803" frameX="-6" frameY="0" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10009" x="0" y="1586" width="2125" height="803" frameX="-6" frameY="0" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10010" x="0" y="1586" width="2125" height="803" frameX="-6" frameY="0" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10011" x="0" y="1586" width="2125" height="803" frameX="-6" frameY="0" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10012" x="0" y="1586" width="2125" height="803" frameX="-6" frameY="0" frameWidth="2137" frameHeight="803"/>
+	<SubTexture name="BG BOPPERS 10013" x="0" y="1586" width="2125" height="803" frameX="-6" frameY="0" frameWidth="2137" frameHeight="803"/>
+</TextureAtlas>

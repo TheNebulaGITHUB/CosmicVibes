@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Seanic.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Seanic Bop0000" x="0" y="0" width="514" height="525" frameX="0" frameY="-16" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0001" x="0" y="0" width="514" height="525" frameX="0" frameY="-16" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0002" x="514" y="0" width="510" height="532" frameX="-4" frameY="-9" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0003" x="514" y="0" width="510" height="532" frameX="-4" frameY="-9" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0004" x="1024" y="0" width="506" height="537" frameX="-8" frameY="-4" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0005" x="1024" y="0" width="506" height="537" frameX="-8" frameY="-4" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0006" x="1530" y="0" width="510" height="538" frameX="-8" frameY="-3" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0007" x="1530" y="0" width="510" height="538" frameX="-8" frameY="-3" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0008" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0009" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0010" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0011" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0012" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0013" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0014" x="0" y="0" width="514" height="525" frameX="0" frameY="-16" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0015" x="0" y="0" width="514" height="525" frameX="0" frameY="-16" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0016" x="514" y="0" width="510" height="532" frameX="-4" frameY="-9" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0017" x="514" y="0" width="510" height="532" frameX="-4" frameY="-9" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0018" x="1024" y="0" width="506" height="537" frameX="-8" frameY="-4" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0019" x="1024" y="0" width="506" height="537" frameX="-8" frameY="-4" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0020" x="1530" y="0" width="510" height="538" frameX="-8" frameY="-3" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0021" x="1530" y="0" width="510" height="538" frameX="-8" frameY="-3" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0022" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0023" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0024" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0025" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0026" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0027" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0028" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+	<SubTexture name="Seanic Bop0029" x="0" y="538" width="519" height="541" frameX="-8" frameY="0" frameWidth="527" frameHeight="541"/>
+</TextureAtlas>

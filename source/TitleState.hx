@@ -36,6 +36,10 @@ import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 import lime.app.Application;
+import flixel.addons.display.FlxGridOverlay;
+import flixel.addons.display.FlxBackdrop;
+import openfl.display.BitmapData;
+import flixel.util.FlxAxes;
 import openfl.Assets;
 
 using StringTools;
@@ -283,6 +287,35 @@ class TitleState extends MusicBeatState
 		// bg.updateHitbox();
 		add(bg);
 
+		var sex:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('to_sex_or_not_to_sex'));
+		sex.setGraphicSize(Std.int(sex.width * 1.175));
+		sex.updateHitbox();
+		sex.screenCenter();
+		sex.antialiasing = ClientPrefs.globalAntialiasing;
+		add(sex);
+
+		var GRID_SIZE:Int=40;
+		var  width0 = GRID_SIZE  * Math.floor(FlxG.width/GRID_SIZE);
+		var height0 = GRID_SIZE * Math.floor(FlxG.height/GRID_SIZE);
+		
+		var grid:BitmapData = FlxGridOverlay.createGrid(
+			GRID_SIZE, 
+			GRID_SIZE, 
+			GRID_SIZE*8, 
+			GRID_SIZE*8,
+			true,       //Loop
+			0x51690B66, //Color 1
+			0x50EB2CE8  //Color 2
+		);
+		
+		var t = new flixel.addons.display.FlxBackdrop(grid,1,1,true,true);
+		t.scale.set(2,2);
+		t.antialiasing=true;
+		//t.alpha = 0.6; //you can make this transparent if you want by changing alpha
+		//t.blend = 11;  //Blend modes are cool 
+		t.velocity.set(width0/20,height0/20);
+		add(t);
+
 		logoBl = new FlxSprite(titleJSON.titlex, titleJSON.titley);
 		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
 
@@ -327,6 +360,8 @@ class TitleState extends MusicBeatState
 				gfDance.frames = Paths.getSparrowAtlas('gfDanceTitle');
 				gfDance.animation.addByIndices('danceLeft', 'gfDance', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
 				gfDance.animation.addByIndices('danceRight', 'gfDance', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
+				gfDance.x = 672;
+				gfDance.y = 200;
 		}
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;
 
