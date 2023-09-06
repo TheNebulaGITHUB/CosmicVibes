@@ -678,13 +678,13 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['this mod made by'], 15);
 					#else
-					createCoolText(['nebula', 'kat', 'xml', 'and more']);
+					createCoolText(['nebula', 'katz', 'xml', 'and more']);
 					#end
 				// credTextShit.visible = true;
 				case 4:
 					#if PSYCH_WATERMARKS
 					addMoreText('Nebula', 15);
-					addMoreText('kiwikatz', 15);
+					addMoreText('katz', 15);
 					addMoreText('.xml', 15);
 					#else
 					addMoreText('present');
